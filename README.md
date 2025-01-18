@@ -15,7 +15,7 @@ This repository aims to document my progress and learning through the **TryHackM
 
 Below is a list of TryHackMe rooms that I've written about in this repository:
 
-1. [Crack the Hash](crack_the_hash.md)
+1. [Crack the Hash](CrackTheHash.md)
    - This challenge focuses on cracking different hash types using hash-cracking tools like Hashcat and other online resources.
 
 
