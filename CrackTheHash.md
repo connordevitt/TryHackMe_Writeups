@@ -61,3 +61,5 @@ You’ll likely need to use hashcat for this task. For additional reference, the
    The hint suggests this is an HMAC-SHA1 hash.  
    Command: `hashcat -m 160 hash2_4.txt /usr/share/wordlists/rockyou.txt`  
    > **481616481616**
+
+We have now become hash crackers -_-
