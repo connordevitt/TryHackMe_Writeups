@@ -6,7 +6,7 @@
 
 Your mission is to break the provided hashes in Level 1. Let's get started!
 
-Don't forget out https://crackstation.net/ This can aid the process in level 1! 
+Don't forget https://crackstation.net/ This can aid the process in level 1! 
 
 1. **Hash:** 48bb6e862e54f2a795ffc4e541caed4d  
    The hint indicates this is an MD5 hash. You can use the following command to crack it:  
